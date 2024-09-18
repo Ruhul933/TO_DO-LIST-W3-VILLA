@@ -38,7 +38,7 @@ Make sure you have the following installed:
 1. *Clone the Repository:*
 
    bash
-   git clone git@github.com:ruhul933/todo-list.git
+   git clone https://github.com/Ruhul933/TO_DO-LIST-W3-VILLA.git
    
 
 2. *Navigate to the Project Directory:*
