@@ -57,10 +57,11 @@ Make sure you have the following installed:
 The project follows a modular and organized structure to enhance readability, maintainability, and scalability. Key components include:
 
 - *HTML (index.html):* The main structure of the web page.
+- *Express Java Script(header.ejs):* The sturcture of the to-do-list app.  
 - *CSS (style.css):* Styles to define the appearance of the web page.
 - *JavaScript (main.js):* Logic for handling user interactions, managing tasks, and implementing theme switching.
 - *Fonts (Poppins):* Imported from Google Fonts for consistent typography.
-- MongoDB: * Handling the database.
+- MongoDB: * Handling the backend database.
   
 
 ## 5. Dependencies
